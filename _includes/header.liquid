@@ -55,9 +55,9 @@
               {% endif %}
             </a>
           </li>
-
+ 
           <!-- Other pages -->
-          {% assign sorted_pages = site.pages | sort: 'nav_order' %}
+          <!-- {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
             {% if p.nav and p.autogen == null %}
               {% if p.dropdown %}
@@ -89,7 +89,7 @@
                       {% else %}
                         <a class="dropdown-item {% if page.title == child.title %}active{% endif %}" href="{{ child.permalink | relative_url }}">
                           {{- child.title -}}
-                        </a>
+                        </a> -->
                       {% endif %}
                     {% endfor %}
                   </div>
