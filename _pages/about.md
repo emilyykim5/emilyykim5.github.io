@@ -19,12 +19,12 @@ related_posts: false
 ---
 **Welcome!**
 
-My name is Emily Kim, and I'm a sophomore at Harvard College studying computer science on the pre-med track. My interests range from biotech to environmental justice to machine learning.
+My name is Emily Kim, and I'm a sophomore at Harvard College studying computer science.
 
 
 **Industry**
 
-This past summer, I worked at [Regeneron](https://www.regeneron.com/) as a data science intern on the Digital Health Technologies team. Using Microsoft platforms like Excel, Power Automate, and Sharepoint, I streamlined workflows and created database to manage and organize data for Regeneron’s Clinical Outcomes Assessments and Digital Biomarkers technologies.
+This past summer, I worked at [Regeneron](https://www.regeneron.com/) as a data science intern on the Digital Health Technologies team. Using Microsoft platforms like Excel, Power Automate, and Sharepoint, I streamlined workflows and designed data architecture for Regeneron’s Clinical Outcomes Assessments and Digital Biomarkers technologies.
 
 
 **Research**
