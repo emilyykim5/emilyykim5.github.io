@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Welcome!
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! My name is Emily Kim, and I'm a sophomore at Harvard College studying computer science on the pre-med track. My interests range from biotech to environmental justice to machine learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Industry**
+This past summer, I worked at Regeneron as a data science intern on the Digital Health Technologies team. Using Microsoft platforms like Excel, Power Automate, and Sharepoint, I streamlined workflows and created database to manage and organize data for Regeneron’s Clinical Outcomes Assessments and Digital Biomarkers technologies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Research**
+Previously, I worked as a computational research intern at the Stony Brook University Catalysis lab. I used computational kinetics profile modeling in Python to validate activated carbon's dual role as an adsorbent and photocatalyst, and my research was featured on the [World Economic Forum](https://www.linkedin.com/posts/world-economic-forum_adding-dye-to-textiles-has-become-the-world-activity-7051977390280843265-OpKx/?utm_source=share&utm_medium=member_desktop).
+
+**At Harvard**
+On campus, I serve as a board director on Harvard Computer Society's Technology and Global Health Initiative (TGHI). TGHI hosts workshops and hackathons that explore the intersection of technology and healthcare. I also serve on the board for Harvard WECode, which hosts the world's largest student-run conference for women in technology.
