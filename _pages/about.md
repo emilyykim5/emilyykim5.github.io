@@ -15,6 +15,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 latest_posts: false
+related_posts: false
 ---
 
 Hi! My name is Emily Kim, and I'm a sophomore at Harvard College studying computer science on the pre-med track. My interests range from biotech to environmental justice to machine learning.
