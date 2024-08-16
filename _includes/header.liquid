@@ -89,9 +89,9 @@
                       {% else %}
                         <a class="dropdown-item {% if page.title == child.title %}active{% endif %}" href="{{ child.permalink | relative_url }}">
                           {{- child.title -}}
-                        </a> -->
+                        </a>
                       {% endif %}
-                    {% endfor %}
+                    {% endfor %} -->
                   </div>
                 </li>
               {% else %}
@@ -110,7 +110,7 @@
           {% endfor %}
           {% if site.search_enabled %}
             <!-- Search -->
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <button id="search-toggle" title="Search" onclick="openSearchModal()">
                 <span class="nav-link">ctrl k <i class="ti ti-search"></i></span>
               </button>
@@ -125,7 +125,7 @@
                 <i class="ti ti-sun-filled" id="light-toggle-light"></i>
               </button>
             </li>
-          {% endif %}
+          {% endif %} -->
         </ul>
       </div>
     </div>
