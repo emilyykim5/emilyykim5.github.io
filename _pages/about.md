@@ -34,4 +34,4 @@ Previously, I worked as a computational research intern at the [Stony Brook Univ
 
 **At Harvard**
 
-On campus, I serve as a board director on Harvard Computer Society's [Technology and Global Health Initiative (TGHI)](https://techglobalhealth.org/). TGHI hosts workshops and hackathons that explore the intersection of technology and healthcare. I also serve on the board for [Harvard WECode](https://www.wecodeconference.com/), which hosts the world's largest student-run conference for women in technology. In my free time, I enjoy going on walks along the Charles River and going to concerts with friends.
+On campus, I serve as a board director on Harvard Computer Society's [Technology and Global Health Initiative (TGHI)](https://techglobalhealth.org/). TGHI hosts workshops and hackathons that explore the intersection of technology and healthcare. I also serve on the board for [Harvard WECode](https://www.wecodeconference.com/), which hosts the world's largest student-run conference for women in technology. In my free time, I enjoy going on walks along the Charles River with friends.
